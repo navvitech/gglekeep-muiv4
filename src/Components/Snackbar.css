@@ -1,0 +1,11 @@
+.MuiSnackbarContent-root {
+  background: #323232;
+  height: 70px;
+  width: 430px;
+  display: flex;
+  align-items: center;
+  font-weight: 400;
+  padding-left: 30px !important;
+  padding-right: 30px !important;
+  border-radius: 10px !important;
+}
